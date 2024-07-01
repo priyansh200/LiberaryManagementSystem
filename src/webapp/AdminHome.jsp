@@ -67,7 +67,7 @@ a{
         
             <div class="button"><a href="StudentDetails.jsp">Students</a></div>
         
-            <div class="button"><a href="logout.html">Logout</a></div>
+            <div class="button"><a href="LogOut.jsp">Logout</a></div>
         </div>
 </body>
 </html>
